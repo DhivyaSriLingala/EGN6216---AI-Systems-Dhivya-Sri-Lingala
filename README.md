@@ -1,4 +1,4 @@
-# **Emowise: Personalized AI for Emotional WellBeing**
+# *Emowise: Personalized AI for Emotional WellBeing*
 
 ### About the Project
 This project aims to improve classification tasks by using dimensionality reduction techniques to satellite photography data, specifically distinguishing between ship and no-ship images. The effectiveness of the chosen methods in capturing important data structures is assessed. These methods include principal component analysis (PCA) and manifold learning algorithms such as ISOMAP.
