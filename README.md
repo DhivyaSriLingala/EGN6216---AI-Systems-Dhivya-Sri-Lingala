@@ -1,8 +1,7 @@
 # *Emowise: Personalized AI for Emotional WellBeing*
 
 ### About the Project
-This project aims to improve classification tasks by using dimensionality reduction techniques to satellite photography data, specifically distinguishing between ship and no-ship images. The effectiveness of the chosen methods in capturing important data structures is assessed. These methods include principal component analysis (PCA) and manifold learning algorithms such as ISOMAP.
-The approach places a strong emphasis on preparing, presenting, and classifying the data using Python-based machine learning frameworks and data analysis modules. Standardizing input features, applying dimensionality reduction strategies, and developing models to improve performance are all crucial tasks. 
+At the heart of Emo-Wise are advanced technologies like collaborative filtering, natural language processing, and deep learning. These tools will allow the system in understanding emotional cues with accuracy and delivering highly relevant guidance in the real time. Beyond the technology, Emo-Wise prioritizes user privacy, ethical AI practices and ensuring that it works for a wide range of people. 
 
 
 ## Datasets
