@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+neattext
+sklearn
+joblib
+streamlit
+altair
