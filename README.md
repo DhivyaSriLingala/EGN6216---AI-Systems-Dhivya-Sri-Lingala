@@ -22,3 +22,7 @@ The repository should be cloned using
 ```sh
 git clone https://github.com/DhivyaSriLingala/EGN6216---AI-Systems-Dhivya-Sri-Lingala.git
 ```
+## Understanding all the files
+Inside the Emowise Folder in our repository you will find 2 folders 
+- one for text data
+- one for visual data
