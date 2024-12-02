@@ -18,6 +18,7 @@ In order to update anaconda,use the following command
 ```
 
 ## Clone the repo
-The repository should be cloned using hipergator only
-
+The repository should be cloned using 
 ```sh
+git clone https://github.com/DhivyaSriLingala/EGN6216---AI-Systems-Dhivya-Sri-Lingala.git
+```
