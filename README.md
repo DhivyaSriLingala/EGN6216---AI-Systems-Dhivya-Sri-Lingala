@@ -32,4 +32,4 @@ You are supposed to run text data and visual data related code files separately 
 
 ## Future Scope
 The emotional recognition can be done on vocal data also.
-The recommendation can be made individually for every person with reference to the food they like,the hobbies they have and by detecting the mood they were in
+The recommendation can be made individually for every person with reference to the food they like,the hobbies they have and by detecting the mood they are in.
